@@ -10,9 +10,9 @@ My Goal: To build apps that are not only functional but also provide a delightfu
 
 ### 🛠️ Skills & Tools
 - **Frameworks:** Flutter
-- **Languages:** Dart, SQL
+- **Languages:** Dart
 - **Backend:** Firebase, Supabase
-- **Tools:** Git, GitHub, DaVinci Resolve, Figma
+- **Tools:** Git, GitHub, Figma
 
 - ### 🛠 Technologies & Tools
 
